@@ -64,7 +64,7 @@ sidebar:
         - icon: fas fa-envelope
           url: mailto:me@xxx.com
         - icon: fab fa-github
-          url: https://github.com/yuang01/hexo-theme-bamboo
+          url: https://quesn.github.io/qsmx/
         - icon: fab fa-qq
           url: tencent://AddContact/?fromId=50&fromSubId=1&subcmd=all&uin=你的qq号码
     # ---------------------------------------
@@ -148,7 +148,7 @@ sidebar:
           unit: '篇'
         runtime:
           on: true
-          data: '2020/01/01'    # 填写建站日期
+          data: '2024/01/20'    # 填写建站日期
           text: '已运行时间：'
           unit: '天'
         wordcount:
@@ -198,7 +198,7 @@ swiper:
   defaultVideo: '' # video，min-width:992px show
   defaultVideoLoadingImg: 'https://img14.360buyimg.com/ddimg/jfs/t1/175057/18/19582/882056/60ee7ac8Ef0045710/202d2ad878684a3b.gif' # video loading img -- use .gif img, 视频预加载动画，使用gif图片作为loading，为空则视频没有预加载动画
   defaultTile: '跨越时空的一场对话——浚县庙会' # 标题
-  defaultDesc: [] #描 述，例如 ['煮酒洗净尘嚣，论知交', '万般付之一笑，共偕老']
+  defaultDesc: [浚县庙会的传承和发扬] #描 述，例如 ['煮酒洗净尘嚣，论知交', '万般付之一笑，共偕老']
   defaultLeftBtnText: '' # 左边按钮文字, 空字符串则不显示
   defaultLeftBtnLink: 'https://yuang01.gitee.io/2021/02/08/hexo-theme-bamboo-new/' # 左边按钮链接 
   defaultRightBtnText: '' # 右边按钮的文字，空字符串则不显示
@@ -240,7 +240,7 @@ show_count: true
 # 打赏功能
 donate:
   on: true
-donate_message: 你的赏识是我前进的动力
+donate_message: 你的赏识是我们前进的动力
 # 支付宝打赏图片相对路径
 Alipay: 'https://pica.zhimg.com/80/v2-61f99f8dcf899f54cad2a1aa28b21e44_1440w.webp'
 # 微信打赏图片相对路径
@@ -272,7 +272,7 @@ postNav:
 copy:
   on: true
   title: '成功'
-  content: '代码已复制，请遵守相关授权协议。'
+  content: '文章已复制，请遵守相关授权协议。'
 
 # 输入框打字特效
 inputEffects:
@@ -336,7 +336,7 @@ baiduPush: true
 
 # 音乐
 music:
-  on: true
+  on: false
   autoHide: true    # hide automaticaly
   server: tencent   # require music platform: netease, tencent, kugou, xiami, baidu
   type: playlist    # require song, playlist, album, search, artist
@@ -359,7 +359,7 @@ copyright:
 motto:
   on: true
   title: '座右铭'
-  content: '沉淀后我们愿意做个温暖的人，有自己的喜好，有自己的原则，有自己的信仰，不急功近利，不浮夸轻薄。宠辱不惊，淡定安逸，心静如水，不忘初心，方得始终。——奇思妙想庙队'
+  content: '沉淀后我们愿意做个温暖的人，有自己的喜好，有自己的原则，有自己的信仰，不急功近利，不浮夸轻薄。宠辱不惊，淡定安逸，心静如水，不忘初心，方得始终。——奇思庙想小队'
   background: 'url("https://img10.360buyimg.com/ddimg/jfs/t1/166587/8/21344/72069/6088c24fEda5fdeb6/f9730ab637b7ca47.png")' # url("xxx") or red or #000 or rgba() ..
 
 # 首页公告
